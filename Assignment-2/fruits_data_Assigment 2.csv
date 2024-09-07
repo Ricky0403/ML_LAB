@@ -1,0 +1,9 @@
+Color,Size,Shape,Taste,Type
+Red,Small,Round,Sweet,Positive
+Red,Medium,Round,Sweet,Positive
+Yellow,Small,Oval,Sour,Negative
+Green,Large,Round,Sour,Negative
+Red,Large,Round,Sweet,Positive
+Yellow,Medium,Round,Sour,Negative
+Green,Small,Round,Sweet,Negative
+Red,Medium,Oval,Sweet,Positive
